@@ -1,0 +1,2745 @@
+{
+  "gerado_em": "2025-11-03T01:08:41.373Z",
+  "pasta": "/media/arilson/ARQUIVOS/EMULADOR GAME/PS2",
+  "total": 271,
+  "encontrados": 264,
+  "faltando": 7,
+  "resultados": [
+    {
+      "arquivo": "007 - EVERYTHING OR NOTHING (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20751"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20751.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "007 - NIGHTFIRE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20579"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20579.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "007 - QUANTUM OF SOLACE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21813"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21813.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "187 - RIDE OR DIE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21116"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21116.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "25 TO LIFE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21016"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21016.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "50 CENT - BULLETPROOF (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21315"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21315.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "A CASA MONSTRO (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-54217"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-54217.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "A MUMIA - A SERIE ANIMADA (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-52835"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-52835.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "ACE COMBAT - SQUADRON LEADER (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCES-52424"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCES-52424.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "ALONE IN THE DARK THE NEW NIGHTMARE (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-50185"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-50185.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "ALTERED BEAST (BR) V2.0.iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-53024"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-53024.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "AREA 51 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20595"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20595.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "AS CRONICAS DE NARNIA (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21082"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21082.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "ATV OFFROAD FURY 2 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-51814"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-51814.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "AVATAR - THE LAST AIRBENDER - INTO THE INFERNO (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21804"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21804.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "AVATAR - THE LEGEND OF AANG (BR) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-54188"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-54188.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BAROQUE (BR) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21714"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21714.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BATMAN - RISE OF SIN TZU (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20709"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20709.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BATMAN BEGINS (BR) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-53387"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-53387.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BATTLEFIELD 2 - MODERN COMBAT (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21026"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21026.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BEN 10 -  ALIEN FORCE - VILGAX ATTACKS (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21921"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21921.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BEN 10 - ALIEN FORCE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21815"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21815.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BEN 10 - PROTECTOR OF EARTH (BR) (T1.1).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21661"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21661.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BEN 10 - ULTIMATE ALIEN - COSMIC DESTRUCTION (BR) (DUB).ISO",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21938"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21938.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BERSERK MILLENNIUM FALCON (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLPM-65688"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLPM-65688.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BLACK (BR) (DUB) (T1.1)(EMULADOR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21376"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21376.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BLACK (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21376"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21376.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BOB ESPONJA  THE MOVIE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20904"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20904.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BOB ESPONJA SQUAREPANTS IN - BATTLE FOR BIKINI BOTTOM (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20680"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20680.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BOMBA PATCH LEGENDS GEOMATRIX (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLPM-66595"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLPM-66595.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BOMBA PATCH PS2 OUTUBRO MYMAX 2025 (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLPM-66374"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLPM-66374.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BOMBERMAN + DONKEY KONG (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-68751",
+        "SLUS-20022"
+      ],
+      "alerta": null,
+      "capa": null,
+      "capa_encontrada": false
+    },
+    {
+      "arquivo": "BROTHERS IN ARMS - EARNED IN BLOOD (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21310"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21310.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BULLY (BR) (DUB) (T0.1.1).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21269"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21269.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BURNOUT 3 - TAKEDOWN (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21050"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21050.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "BURNOUT DOMINATOR (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21596"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21596.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CALL OF DUTY - FINEST HOUR (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-52783"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-52783.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CALL OF DUTY 2 - BIG RED ONE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21228"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21228.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CALL OF DUTY 3 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21426"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21426.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CALL OF DUTY WORLD AT WAR (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21746"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21746.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CAPCOM CLASSICS COLLECTION VOL. 1 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21316"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21316.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CAPCOM VS. SNK 2 - MARK OF THE MILLENNIUM 2001 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20246"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20246.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CARROS (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21151"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21151.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CASTLEVANIA - CURSE OF DARKNESS (BR) (DUB).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-53755"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-53755.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CAVALEIROS DOS ZODIACO A SAGA DO SANTUÁRIO (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLPS-25476"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLPS-25476.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "COLD FEAR (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-53158"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-53158.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "COLIN MCRAE RALLY 2005 (BR) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-52636"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-52636.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CORALINE (BR) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21854"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21854.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CRASH - MIND OVER MUTANT (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21728"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21728.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CRASH NITRO KART (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20649"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20649.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CRASH OF THE TITANS (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21583"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21583.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CRASH TAG TEAM RACING (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21191"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21191.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CRASH TWINSANITY (BR) (DUB) V2.0.iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20909"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20909.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CRASH WRATH OF CORTEX (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20238"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20238.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "CRAZY TAXI (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20202"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20202.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "DARKWATCH (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-53564"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-53564.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "DEAD OR ALIVE 2 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCES-50003"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCES-50003.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "DEF JAM - FIGHT FOR NY (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21004"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21004.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "DESTROY ALL HUMANS (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20945"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20945.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "DESTROY ALL HUMANS 2 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21439"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21439.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "DEVIL MAY CRY 3 (BR) (DUB).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-54186"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-54186.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "DOG'S LIFE (PT).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCES-51248"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCES-51248.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "DONKEY KONG TRILOGY (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-19771",
+        "SLUS-22022"
+      ],
+      "alerta": null,
+      "capa": null,
+      "capa_encontrada": false
+    },
+    {
+      "arquivo": "DOWNHILL DOMINATION (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-52202"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-52202.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "DRAGON BALL BT 4 V4 (BR) (DUB).ISO",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21678",
+        "SLUS-21441",
+        "SLUS-21227"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21678.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "DRAGON BALL Z TKC3 (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21678",
+        "SLUS-21441",
+        "SLUS-21227"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21678.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "DRIV3R (BR) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20587"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20587.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "DRIVER - PARALLEL LINES (BR) (T1.02).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21271"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21271.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "ECHO NIGHT - BEYOND (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20928"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20928.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "FAMILY GUY (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-54126"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-54126.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "FATAL FRAME (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-50821"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-50821.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "FATAL FRAME 2 - CRIMSON BUTTERFLY (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-52384"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-52384.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "FATAL FRAME 3 (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-53825"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-53825.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "FIFA STREET (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-53064"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-53064.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "FIFA STREET 2 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21369"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21369.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "FINAL FANTASY X (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLPS-25088"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLPS-25088.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "FINAL FANTASY XII INTERNATIONAL - ZODIAC JOB SYSTEM (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLPM-66750"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLPM-66750.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "FORMULA 1 - 2006 (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCES-53950"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCES-53950.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "FREEKSTYLE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20367"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20367.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GENJI - DAWN OF THE SAMURAI (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCUS-97471"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCUS-97471.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GHOSTHUNTER (PT).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCES-51463"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCES-51463.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GLASS ROSE (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-52358"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-52358.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GOD HAND (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21503"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21503.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GOD OF WAR 1 (BR) (DUB).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCUS-97399"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCUS-97399.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GOD OF WAR 2 (BR) (DUB).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCUS-97481"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCUS-97481.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GRAN TURISMO 4 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCUS-97328"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCUS-97328.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GRAN TURISMO 4 SPEC II V1.07 FULL (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCUS-97436"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCUS-97436.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GTA - LIBERTY CITY STORIES (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21423"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21423.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GTA - VICE CITY (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20552"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20552.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GTA - VICE CITY STORIES (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21590"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21590.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GTA BRASIL v1.3 (BR).iso",
+      "metodo": "none-found",
+      "codigos": [],
+      "alerta": "⚠️ Código não encontrado para \"GTA BRASIL v1.3 (BR).iso\"",
+      "capa": null,
+      "capa_encontrada": false
+    },
+    {
+      "arquivo": "GTA III (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20062"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20062.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GTA SAN ANDREAS (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20946"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20946.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GTA SAN ANDREAS V1.03 (BR) (DUB).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20946"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20946.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GUITAR HERO (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21224"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21224.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GUITAR HERO BRAZUCAS (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21672"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21672.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GUITAR HERO ENCORE - ROCKS THE 80S (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21586"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21586.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GUITAR HERO GOD (BR).ISO",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21447"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21447.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GUITAR HERO GOD 2.0 (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21447"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21447.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GUITAR HERO II (BR) (T1.7).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21447"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21447.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GUITAR HERO III - LEGENDS OF ROCK (BR) (T2.0) (EMULADOR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21672"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21672.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GUITAR HERO LINKIN PARK (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-66601"
+      ],
+      "alerta": null,
+      "capa": null,
+      "capa_encontrada": false
+    },
+    {
+      "arquivo": "GUITRA HERO GOLD EDITION (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21447"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21447.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "GUNFIGHTER 2 - REVENGE OF JESS JAMES (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-11111",
+        "SLES-51289"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-51289.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "HALF LIFE (BR) (DUB).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20066"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20066.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "HAUNTING GROUND (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-52877"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-52877.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "HOMEM-ARANHA - AMIGO OU INIMIGO (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21600"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21600.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "ICO (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCES-50760"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCES-50760.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "INDIGO PROPHECY (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21196"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21196.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "JACKIE CHAN ADVENTURES (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCES-52412"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCES-52412.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "JAK AND DAXTER - THE PRECURSOR LEGACY (BR) V1.0 (EMULADOR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCUS-97124"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCUS-97124.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "JAK X - COMBAT RACING (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCUS-97429"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCUS-97429.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "KILLZONE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCES-52004"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCES-52004.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "KING KONG (BR) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21311"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21311.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "KINGDOM HEARTS - FINAL MIX (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLPS-25198"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLPS-25198.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "KINGDOM HEARTS - RE-CHAIN OF MEMORIES (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21799"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21799.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "KINGDOM HEARTS 2 - FINAL MIX (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLPM-66675"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLPM-66675.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "KNOCKOUT KINGS 2001 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20150"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20150.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "KOF COLLECTION 11 IN 1 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-74032",
+        "SLUS-21554",
+        "SLES-53382",
+        "SLES-53381",
+        "SLES-53999"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21554.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "KUNG FU PANDA (BR) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21757"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21757.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "KUON (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-53411"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-53411.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "L.A. RUSH (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21112"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21112.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "LEGO - BATMAN (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21785"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21785.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "LEGO - STAR WARS (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21083"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21083.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "LEGO INDIANA JONES THE ORIGINAL ADVENTURES (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21759"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21759.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "LEGO STAR WARS II (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21409"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21409.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "LEISURE SUIT LARRY - MAGNA CUM LAUDE (BR) (SEM CENSURA) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20956"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20956.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "LIGA DA JUSTICA (BR) (DUB).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21304"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21304.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "LOONEY TUNES - SPACE RACE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20352"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20352.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MADAGASCAR (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21015"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21015.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MADAGASCAR - ESCAPE 2 AFRICA (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21840"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21840.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MAFIA (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-52278"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-52278.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MANHUNT (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20827"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20827.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MANHUNT 2 (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21613"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21613.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MARVEL - ULTIMATE ALLIANCE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21374"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21374.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MARVEL VS. CAPCOM 2 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20486"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20486.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MAT HOFFMAN'S PRO BMX 2 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20335"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20335.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MATRIX - PATH OF NEO (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21273"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21273.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MAX PAYNE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20230"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20230.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MAX PAYNE 2 - THE FALL OF MAX PAYNE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20814"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20814.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MEDAL OF HONOR - EUROPEAN ASSAULT (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21199"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21199.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MEDAL OF HONOR - FRONTLINE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20368"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20368.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MEDAL OF HONOR - RISING SUN (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20753"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20753.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MEDAL OF HONOR - VANGUARD (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21597"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21597.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "METAL GEAR SOLID 2 - SONS OF LIBERTY (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-50383"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-50383.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "METAL GEAR SOLID 3 - SNAKE EATER (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20915"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20915.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "METAL SLUG ANTHOLOGY (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21550"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21550.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MICKEY MOUSE COLLECTION (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-22101",
+        "SLUS-12312",
+        "SLUS-12313",
+        "SLUS-22102",
+        "SLUS-22103",
+        "SLUS-22104",
+        "SLUS-22105",
+        "SLUS-22106",
+        "SLUS-22107"
+      ],
+      "alerta": null,
+      "capa": null,
+      "capa_encontrada": false
+    },
+    {
+      "arquivo": "MIDNIGHT CLUB 3 - DUB EDITION REMIX (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21355"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21355.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MORTAL KOMBAT - ARMAGEDDON (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21543"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21543.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MORTAL KOMBAT - DEADLY ALLIANCE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20423"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20423.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MORTAL KOMBAT - DECEPTION (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-52705"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-52705.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MORTAL KOMBAT - SHAOLIN MONKS (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21087",
+        "SLUS-21189"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21087.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MOTOGP 08 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21811"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21811.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MOTOQUEIRO FANTASMA (BR) (DUB) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21306"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21306.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MOTORSTORM - ARCTIC EDGE (PT).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCES-55573"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCES-55573.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "MX UNLEASHED (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20767"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20767.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "NARUTO - UZUMAKI CHRONICLES 2 (BR) (DUB) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21594"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21594.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "NARUTO SHIPPUDEN - ULTIMATE NINJA 4 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-55481"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-55481.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "NARUTO SHIPPUDEN ULTIMATE NINJA 5 (BR) (DUB).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-55605"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-55605.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "NASCAR 09 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21744"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21744.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "NBA 2K11 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21936"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21936.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "NBA STREET V3 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21126"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21126.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "NEED FOR SPEED - CARBON (BR).ISO",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21494"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21494.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "NEED FOR SPEED - MOST WANTED - BLACK EDITION (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21351"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21351.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "NEED FOR SPEED - PROSTREET (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21658"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21658.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "NEED FOR SPEED - UNDERCOVER (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21801"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21801.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "NEED FOR SPEED - UNDERGROUND (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20811"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20811.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "NEED FOR SPEED - UNDERGROUND 2 (BR) (DUB).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21065"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21065.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "NEO CONTRA (BR) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20961"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20961.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "NICKTOONS UNITE! (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21284"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21284.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "O CODIGO DA VINCI (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21443"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21443.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "O EXTERMINADOR DO FUTURO 3 - A REDENÇÃO (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20852"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20852.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "O JUSTICEIRO (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20864"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20864.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "O PODEROSO CHEFAO (PT).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-53967"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-53967.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "OBSCURE (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20777"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20777.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "OBSCURE 2 (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-54782"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-54782.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "ONE PIECE - GRAND ADVENTURE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21435"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21435.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "ONIMUSHA - WARLORDS (BR) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20018"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20018.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "ONIMUSHA 2 - SAMURAI'S DESTINY (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20393"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20393.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "ONIMUSHA 3 - DEMON SIEGE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20694"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20694.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "OS INCRÍVEIS (BR) (DUB) V.1.0.iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20905"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20905.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "OS JOVENS TITAS (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21183"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21183.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "OS SEM-FLORESTA (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21300"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21300.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "OUTRUN 2006 - COAST 2 COAST (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21274"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21274.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "PAC-MAN WORLD RALLY (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21328"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21328.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "PERSONA 3 FES (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21621"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21621.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "PERSONA 4 (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21782"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21782.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "PES 2010 BRAZUKAS (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-55589"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-55589.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "PES 5 LEGENDS 2 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-53544"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-53544.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "PIRATAS DO CARIBE - A LENDA DE JACK SPARROW (BR) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21110"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21110.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "PLAYBOY - THE MANSION (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20988"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20988.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "PRINCE OF PERSIA - THE SANDS OF TIME (BR) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20743"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20743.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "PRINCE OF PERSIA - THE TWO THRONES (BR) (T1.1).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21287"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21287.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "RATATOUILLE (BR) (DUB) (T2.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21541"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21541.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "RATCHET & CLANK - SIZE MATTERS (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCES-55019"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCES-55019.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "RE CODE VERONICA X (DUBLADO) (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20184"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20184.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "RESIDENT EVIL - OUTBREAK (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-51589"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-51589.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "RESIDENT EVIL 4 - DUBLADO (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-53702"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-53702.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "RISE TO HONOR (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCUS-97279"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCUS-97279.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "ROCKET POWER - BEACH BANDITS (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20473"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20473.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "RPM TUNING (PT).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-52190"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-52190.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "RUFF TRIGGER (BR) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21314"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21314.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "RULE OF ROSE (BR) (T2.5).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21448"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21448.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SAINT SEIYA - THE HADES OCE EDITION (BR) (DUB).ISO",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-54162"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-54162.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SCOOBY-DOO AND THE SPOOKY SWAMP (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21928"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21928.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SCOOBY-DOO! FIRST FRIGHTS (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21900"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21900.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SEGA CLASSICS COLLECTION (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21009"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21009.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SHADOW OF THE COLOSSUS (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCUS-97472"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCUS-97472.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SHINOBI (BR) (DUB).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20459"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20459.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SHREK 2 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-52379"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-52379.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SILENT HILL - ORIGINS (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21731"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21731.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SILENT HILL - SHATTERED MEMORIES (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21899"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21899.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SILENT HILL 2 (BR) v2.04.iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20228"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20228.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SILENT HILL 3 (BR).ISO",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20622"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20622.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SILENT HILL 4 - THE ROOM (BR).ISO",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20873"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20873.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SITTING DUCKS (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-52116"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-52116.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SLY 2 - BAND OF THIEVES (PT).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCES-52529"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCES-52529.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SNIPER ELITE (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21231"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21231.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SOCOM 3 U.S. NAVY SEALS (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCUS-97474"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCUS-97474.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SONIC HEROES (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20718"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20718.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SONIC RIDERS ZERO GRAVITY (BR) (DUB).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21642"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21642.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SPARTAN - TOTAL WARRIOR (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-53393"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-53393.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SPIDER-MAN - THE MOVIE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20336"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20336.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SPIDER-MAN 2 (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20776"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20776.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SPIDER-MAN 3 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21552"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21552.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SPY HUNTER - NOWHERE TO RUN (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21421"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21421.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SPYRO - A HERO'S TAIL (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20884"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20884.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SPYRO - A NEW BEGINNING (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21372"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21372.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SPYRO - DAWN OF THE DRAGON (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21820"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21820.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SSX TRICKY (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20326"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20326.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "STAR WARS - THE FORCE UNLEASHED (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21614"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21614.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "STREET FIGHTER COLLECTION (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-18642",
+        "SLUS-20949",
+        "SLUS-21317",
+        "SLUS-20246",
+        "SLUS-20486"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20949.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "SUPER MARIO COLLECTION (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-26763"
+      ],
+      "alerta": null,
+      "capa": null,
+      "capa_encontrada": false
+    },
+    {
+      "arquivo": "SYBERIA II (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-52831"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-52831.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TEKKEN 5 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21059"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21059.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "THE FLINTSTONES - BEDROCK RACING (PT).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-54579",
+        "SLES-54473",
+        "SLES-54580",
+        "SLUS-12345",
+        "SLES-12345"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-54473.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "THE GETAWAY - BLACK MONDAY (PT).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCES-52948"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCES-52948.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "THE INCREDIBLES RISE OF THE UNDERMINER (BR) (T1.0).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21217"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21217.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "THE NIGHTMARE BEFORE CHRISTMAS - OOGIE'S REVENGE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20860"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20860.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "THE SIMPSONS HIT & RUN (BR) (T1.1).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20624"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20624.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "THE SIMS 2 - CASTAWAY (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-54903"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-54903.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "THE SUFFERING (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-52439"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-52439.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "THE SUFFERING - TIES THAT BIND (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21189",
+        "SLUS-21087"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21189.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "THE WARRIORS (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21215"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21215.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TIMESPLITTERS (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20090"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20090.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TOMB RAIDER - ANGEL (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20467"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20467.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TOMB RAIDER - ANNIVERSARY (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-54674"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-54674.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TOMB RAIDER - LEGEND (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-53908"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-53908.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TOMB RAIDER - UNDERWORLD (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21858"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21858.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TONY HAWK'S DOWNHILL JAM (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21456"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21456.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TONY HAWK'S PRO SKATER 3 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-50435",
+        "SLES-50400"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-50435.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TOP SPIN (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21222"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21222.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TOTAL OVERDOSE - A GUNSLINGER'S TALE IN MEXICO.iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21283"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21283.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TOY STORY 3 (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21931"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21931.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TRUE CRIME - NEW YORK CITY (BR) (T-BETA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21106"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21106.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TRUE CRIME - STREETS OF LA (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-51754"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-51754.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TUROK EVOLUTION (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20333"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20333.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "TWISTED METAL - BLACK (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCUS-97101"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCUS-97101.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "ULTIMATE RETRO (USA).iso",
+      "metodo": "none-found",
+      "codigos": [],
+      "alerta": "⚠️ Código não encontrado para \"ULTIMATE RETRO (USA).iso\"",
+      "capa": null,
+      "capa_encontrada": false
+    },
+    {
+      "arquivo": "ULTIMATE SPIDER MAN LIMITED EDITION (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21285"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21285.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "UP (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21864"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21864.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "URBAN REIGN (BR) V1.0.iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SCES-53688"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SCES-53688.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "VAN HELSING (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20738"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20738.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "VELOZES E FURIOSOS (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21449"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21449.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "VIRTUA TENNIS 2 (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLES-51232"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLES-51232.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "WALL-E (BR).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21736"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21736.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "WE10 PITTAGAMES LEGENDS (BR).ISO",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLPM-66374"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLPM-66374.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "WORMS 3D (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20894"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20894.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "WWE SMACKDOWN HERE COMES THE PAIN (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-20787"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-20787.jpg",
+      "capa_encontrada": true
+    },
+    {
+      "arquivo": "X-MEN ORIGINS - WOLVERINE (USA).iso",
+      "metodo": "iso-head",
+      "codigos": [
+        "SLUS-21880"
+      ],
+      "alerta": null,
+      "capa": "https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/SLUS-21880.jpg",
+      "capa_encontrada": true
+    }
+  ]
+}
