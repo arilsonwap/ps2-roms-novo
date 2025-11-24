@@ -1,0 +1,13 @@
+# Ignora apenas o que não é necessário
+node_modules/
+src/
+dist/
+.git/
+.expo/
+*.md
+*.log
+*.ts
+*.tsx
+!*.d.ts
+
+# NÃO ignora public/ - deve ser enviado
